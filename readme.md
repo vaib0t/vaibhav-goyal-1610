@@ -39,5 +39,5 @@
 
 ## ⚙️  GitHub Analytics
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-goyal-1610&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-goyal-1610&theme=dark)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-goyal-1610&theme=dark&show_icons=true) &nbsp; <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-goyal-1610&theme=dark)-->
 
