@@ -1,7 +1,7 @@
-# Hi there 👋 I'm Parv Gupta 
+# Hi there 👋 I'm Vaibhav Goyal 
 <br />
 
-[![Github](https://img.shields.io/github/followers/parvg555?label=Follow&style=social)](https://github.com/parvg555) &nbsp; ![views](https://komarev.com/ghpvc/?username=parvg555)
+[![Github](https://img.shields.io/github/followers/vaibhav-goyal-1610?label=Follow&style=social)](https://github.com/vaibhav-goyal-1610) &nbsp; ![views](https://komarev.com/ghpvc/?username=vaibhav-goyal-1610)
 
 ## 🎓 I'm a BE - Computer Science student at Thapar Institute
 
@@ -13,9 +13,9 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://linkedin.com/in/parvg"><img src="lld2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:parvg555@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
- <a href="https://instagram.com/parvg555"> <img src="insta.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/vaibhav-goyal-782522190/"><img src="lld2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:goyal.vaibhav1610@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
+ <a href="https://instagram.com/vaibhav___goyal"> <img src="insta.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
@@ -39,5 +39,5 @@
 
 ## ⚙️  GitHub Analytics
 
-![Parv's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvg555&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvg555&theme=dark)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-goyal-1610&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-goyal-1610&theme=dark)
 
