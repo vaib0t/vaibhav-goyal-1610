@@ -34,7 +34,11 @@
 </p>
 
 <br />
+### Now Playing 🎧
 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/3h01l0jken7vrhrvroydyx8ke)
+<br/>
+---
 ## ⚙️  GitHub Analytics
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-goyal-1610&theme=dark&show_icons=true) &nbsp; <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-goyal-1610&theme=dark)-->
